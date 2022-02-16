@@ -1,4 +1,15 @@
-### Hi there 👋
+<h2 align="center">
+	Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</h2>
+
+## About me:
+- Fourth year student of science and systems engineering at USAC-CUNOC
+- Passionate about technology and programming
+
+- Interested in technologies like:
+-- Java SE and Java EE
+-- Node, Express
+-- Angular, React.js
 
 <!--
 **cesar9401/cesar9401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
