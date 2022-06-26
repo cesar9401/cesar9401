@@ -4,7 +4,7 @@
 
 ## About me:
 
--   4th year student of science and systems engineering at USAC-CUNOC
+-   4th year science and systems engineering student at USAC-CUNOC
 -   Passionate about technology and programming
 
 -   Interested in technologies like:
