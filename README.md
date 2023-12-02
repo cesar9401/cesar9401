@@ -4,11 +4,11 @@
 
 ## About me:
 
--   4th year science and systems engineering student at USAC-CUNOC
+-   5th year science and systems engineering student at USAC-CUNOC
 -   Passionate about technology and programming
 
 -   Interested in technologies like:
-    -   Java SE and Java EE
+    -   Java SE, Jakarta EE, Spring Boot, Quarkus, Docker
     -   Node, Express
     -   Angular, React.js
 
